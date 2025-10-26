@@ -28,20 +28,20 @@ My PhD research in the Scott Lab (BU) focused on neuron migration in adult zebra
 
 *Single adult-born neuron in zebra finch brain.*
 
-<div style="display:flex; gap:14px; justify-content:center; align-items:flex-start; flex-wrap:wrap; margin: 0.5rem 0 0.75rem;">
-  <figure style="margin:0">
-    <img src="/images/transgenic_bird.png" width="320" alt="Transgenic UBC-GFP zebra finch">
-    <figcaption style="text-align:center; font-size:0.95em; margin-top:6px;">Transgenic UBC-GFP zebra finch</figcaption>
-  </figure>
-  <figure style="margin:0">
-    <img src="/images/migrating_neurons.gif" width="320" alt="Migrating neurons in living songbird">
-    <figcaption style="text-align:center; font-size:0.95em; margin-top:6px;">3-hr timelapse; moving cells are migratory neurons</figcaption>
-  </figure>
-  <figure style="margin:0">
-    <img src="/images/3dTracks.png" width="320" alt="Tracked migratory neuron routes">
-    <figcaption style="text-align:center; font-size:0.95em; margin-top:6px;">Tracked migratory neuron routes</figcaption>
-  </figure>
-</div>
+<p align="center">
+  <span style="display:inline-block; text-align:center; margin:6px;">
+    <img src="/images/transgenic_bird.png" width="250" alt="Transgenic UBC-GFP zebra finch"><br>
+    <em style="font-size:0.9em;">Transgenic UBC-GFP zebra finch</em>
+  </span>
+  <span style="display:inline-block; text-align:center; margin:6px;">
+    <img src="/images/migrating_neurons.gif" width="250" alt="Migrating neurons in living songbird"><br>
+    <em style="font-size:0.9em;">3-hr timelapse; moving cells are migratory neurons</em>
+  </span>
+  <span style="display:inline-block; text-align:center; margin:6px;">
+    <img src="/images/3dTracks.png" width="250" alt="Tracked migratory neuron routes"><br>
+    <em style="font-size:0.9em;">Tracked migratory neuron routes</em>
+  </span>
+</p>
 
 
 Next, I wanted to know what mechanisms underlied this migration: could cells be using a winding scaffold, such as vasculature, to migrate through the brain in this diffusive-like way? Also, do migrating neurons avoid other neurons and synapses? If not, do they disrupt the functioning circuitry of the adult brain? 
