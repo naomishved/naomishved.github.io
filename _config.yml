@@ -24,7 +24,7 @@ repository               : "naomishved/naomishved.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/headshot2023.jpg"
+  avatar           : "headshot2023.jpg"
   name             : "Naomi Shvedov"
   pronouns         : "she/her"  
   bio              : "Postdoctoral Associate"
