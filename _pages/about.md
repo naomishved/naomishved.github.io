@@ -22,7 +22,7 @@ My current research is in early stages; I am excited to share more updates soon.
 
 My PhD research in the Scott Lab (BU) focused on neuron migration in adult zebra finches. Songbirds, such as zebra finches, generate new neurons throughout their lives. These new neurons migrate widely throughout the brain before integrating into song-relevant circuitry. How these cells could disperse throughout the intact songbird brain, with its high density of other cells and synapses, was not clear. I performed two-photon microscopy timelapses in living transgenic zebra finches and recorded neuronal migratory dynamics. I observed that these neurons behaved in a disorderd manner; they dispersed in all different directions and made frequent turns.  I then quantitatively described and modeled the migratory neuron population dynamics as a diffusive-like process (they behaved more like wandering foragers than directed projectiles).  
 
-![Migrating neurons in living songbird](STD_100-240-CROPPED-pink61_HIP_NIGHT2_reg_backgroundsub_despeckled-1 (2).gif)
+![Migrating neurons in living songbird](migrating_neurons.gif)
 *3 hour timelapse from juvenile male zebra finch; moving cells are migratory neurons.*
 
 Next, I wanted to know what mechanisms underlied this migration: could cells be using a winding scaffold, such as vasculature, to migrate through the brain in this diffusive-like way? Also, do migrating neurons avoid other neurons and synapses? If not, do they disrupt the functioning circuitry of the adult brain? 
