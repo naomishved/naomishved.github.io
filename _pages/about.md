@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am currently a postdoctoral associate mentored by Dr. Shawn Sorrells at the University of Pittsburgh, studying late-maturing neurons in the amygdala and how early-life experiences shape adolescent brain development and social behaviors. Prior to joining the Sorrells lab, I recieved my PhD in Neuroscience from Boston University, where I worked with Dr. Ben Scott to investigate the dynamics and mechanisms of neuron migration in the adult songbird brain.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+My long-term goal is to understand how circuits re-organize and refine across development to orchestrate natural behaviors. I am particularly interested in understanding how immature neurons can integrate into circuits postnatally, illustrating an incredible natural plasticity of the vertebrate brain and informing future efforts to rebuild damaged circuits in adulthood. I specialize in applying advanced optical and genetic tools to study neuron migration and integration into functional cirucitry across adolescent development.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
