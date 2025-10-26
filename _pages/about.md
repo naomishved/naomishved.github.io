@@ -22,6 +22,12 @@ My current research is in early stages; I am excited to share more updates soon.
 
 My PhD research in the Scott Lab (BU) focused on neuron migration in adult zebra finches. Songbirds, such as zebra finches, generate new neurons throughout their lives. These new neurons migrate widely throughout the brain before integrating into song-relevant circuitry. How these cells could disperse throughout the intact songbird brain, with its high density of other cells and synapses, was not clear. I performed two-photon microscopy timelapses in living transgenic zebra finches and recorded neuronal migratory dynamics. I observed that these neurons behaved in a disorderd manner; they dispersed in all different directions and made frequent turns.  I then quantitatively described and modeled the migratory neuron population dynamics as a diffusive-like process (they behaved more like wandering foragers than directed projectiles).  
 
+<img src="/images/transgenic_bird.png"
+     alt="Transgenic UBC-GFP zebra finch"
+     width="140"
+     align="right"
+     style="margin: 0 0 8px 12px; border-radius: 4px;">
+
 <p align="center">
   <img src="/images/flashtagcell.gif" width="320" alt="Newborn neuron in adult songbird">
 </p>
@@ -30,15 +36,11 @@ My PhD research in the Scott Lab (BU) focused on neuron migration in adult zebra
 
 <p align="center">
   <span style="display:inline-block; text-align:center; margin:6px;">
-    <img src="/images/transgenic_bird.png" width="250" alt="Transgenic UBC-GFP zebra finch"><br>
-    <em style="font-size:0.9em;">Transgenic UBC-GFP zebra finch</em>
+    <img src="/images/migrating_neurons.gif" width="320" alt="Migrating neurons in living songbird"><br>
+    <em style="font-size:0.9em;">3-hr timelapse; migrating neurons</em>
   </span>
   <span style="display:inline-block; text-align:center; margin:6px;">
-    <img src="/images/migrating_neurons.gif" width="250" alt="Migrating neurons in living songbird"><br>
-    <em style="font-size:0.9em;">3-hr timelapse; moving cells are migratory neurons</em>
-  </span>
-  <span style="display:inline-block; text-align:center; margin:6px;">
-    <img src="/images/3dTracks.png" width="250" alt="Tracked migratory neuron routes"><br>
+    <img src="/images/3dTracks.png" width="320" alt="Tracked migratory neuron routes"><br>
     <em style="font-size:0.9em;">Tracked migratory neuron routes</em>
   </span>
 </p>
