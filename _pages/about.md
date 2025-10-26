@@ -97,7 +97,7 @@ _BioEssays_ 47, e70059 (2025).
 
 [An Optical Exposé of Cortical Function](https://www.sciencedirect.com/science/article/abs/pii/S0166223619300748)
 *Naomi R. Shvedov, David J. Margolis*
-_Trends in Neurosciences_42, 8 (2019).
+_Trends in Neurosciences_ 42, 8 (2019).
 
 
 
