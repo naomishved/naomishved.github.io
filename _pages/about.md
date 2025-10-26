@@ -22,11 +22,30 @@ My current research is in early stages; I am excited to share more updates soon.
 
 My PhD research in the Scott Lab (BU) focused on neuron migration in adult zebra finches. Songbirds, such as zebra finches, generate new neurons throughout their lives. These new neurons migrate widely throughout the brain before integrating into song-relevant circuitry. How these cells could disperse throughout the intact songbird brain, with its high density of other cells and synapses, was not clear. I performed two-photon microscopy timelapses in living transgenic zebra finches and recorded neuronal migratory dynamics. I observed that these neurons behaved in a disorderd manner; they dispersed in all different directions and made frequent turns.  I then quantitatively described and modeled the migratory neuron population dynamics as a diffusive-like process (they behaved more like wandering foragers than directed projectiles).  
 
+![Newborn neuron in adult songbird](/images/flashtagcell.gif)
+
+*single adult-born neuron in zebra finch brain*
+
+![Transgenic songbird](/images/transgenic_bird.png)
+
+*transgenic UBC-GFP zebra finch*
+
 ![Migrating neurons in living songbird](/images/migrating_neurons.gif)
 
 
 *3 hour timelapse from juvenile male zebra finch; moving cells are migratory neurons.*
 
+![Migratory track analysis](/images/3dTracks.png)
+
+*tracked migratory neuron routes from volumetric time lapses*
+
+
 Next, I wanted to know what mechanisms underlied this migration: could cells be using a winding scaffold, such as vasculature, to migrate through the brain in this diffusive-like way? Also, do migrating neurons avoid other neurons and synapses? If not, do they disrupt the functioning circuitry of the adult brain? 
 
+![Kornfeld data](images/EM-cells.png)
+*migratory neurons found in Kornfeld et al. songbird EM connectome*
+
 To answer these questions, we teamed up with the Kornfeld Lab, who developed the first fully reconstructed vertebrate basal ganglia EM connectome, taken from a zebra finch's basal ganglia (which receives new neurons throughout life). Within this dataset, we identified 35 migratory neurons based on their morphological and ultrastructural features. These cells did not rely on any particular scaffold. Instead, they made contact with various structures in their environment. They seemed embedded in the synapse-dense neuropil, and sometimes appeared to deform dendritic spines around their elongated soma. Strikingly, migratory neurons also appeared to deform nearby mature neurons. Sometimes this deformation involved several mature neuron somas and was so severe that it looked like the migratory neuron was "tunneling" through the neuron cluster. These findings leveraged the power of EM connectomics and an extensive new dataset from Kornfeld et al. to discover a surprising structural flexibility of adult brain circuitry to migrating neurons. 
+
+![MIGR cells tunnel through mature neurons](images/tunnel.png)
+*migratory neuron (MIGR) tunneling through cluster of medium spiny neurons (MSNs)*
