@@ -25,6 +25,7 @@ main:
     
   - title: "CV"
     url: /files/Curriculum Vitae (CV) Shvedov (3).pdf
+    target: _blank
     
   # - title: "CV"
   #   url: /cv-json/
