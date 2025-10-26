@@ -73,9 +73,7 @@ PDF ↗
 
 [In vivo imaging in transgenic songbirds reveals superdiffusive neuron migration in the adult brain](https://www.sciencedirect.com/science/article/pii/S221112472400086X)  
 *Naomi R. Shvedov, Sina Analoui, Theresia Dafalias, Brooke L. Bedell, Timothy J. Gardner, Benjamin B. Scott*  
-_Cell Reports_ 43, 113759 (2024).  
-[PDF ↗](/files/invivosuperdiffusivemigration.pdf) 
-
+_Cell Reports_ 43, 113759 (2024). [PDF ↗](/files/invivosuperdiffusivemigration.pdf) 
 Highlighted in: [Migratory neurons in adult songbirds spread their wings (2024) _Cell Reports_](https://www.sciencedirect.com/science/article/pii/S2211124724001761) by Shawn Sorrells 
 and [Window into the songbird brain reveals superdiffusive migration of adult-born neurons (2024) _Trends Neurosci._](https://pmc.ncbi.nlm.nih.gov/articles/PMC11132606/) by Carolyn Pytte
 
