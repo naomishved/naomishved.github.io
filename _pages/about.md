@@ -22,20 +22,23 @@ My current research is in early stages; I am excited to share more updates soon.
 
 My PhD research in the Scott Lab (BU) focused on neuron migration in adult zebra finches. Songbirds, such as zebra finches, generate new neurons throughout their lives. These new neurons migrate widely throughout the brain before integrating into song-relevant circuitry. How these cells could disperse throughout the intact songbird brain, with its high density of other cells and synapses, was not clear. I performed two-photon microscopy timelapses in living transgenic zebra finches and recorded neuronal migratory dynamics. I observed that these neurons behaved in a disorderd manner; they dispersed in all different directions and made frequent turns.  I then quantitatively described and modeled the migratory neuron population dynamics as a diffusive-like process (they behaved more like wandering foragers than directed projectiles).  
 
-<div style="float:right; width:160px; margin:6px 0 8px 12px; text-align:center;">
-  <img src="/images/transgenic_bird.png" width="140" alt="Transgenic UBC-GFP zebra finch"
-       style="border-radius:4px; display:block; margin:auto;">
-  <div style="font-size:0.9em; line-height:1.2; margin-top:4px;">
-    <em>Transgenic UBC-GFP zebra finch</em>
-  </div>
-</div>
+#<div style="float:right; width:160px; margin:6px 0 8px 12px; text-align:center;">
+#  <img src="/images/transgenic_bird.png" width="140" alt="Transgenic UBC-GFP zebra finch"
+#       style="border-radius:4px; display:block; margin:auto;">
+#  <div style="font-size:0.9em; line-height:1.2; margin-top:4px;">
+#    <em>Transgenic UBC-GFP zebra finch</em>
+# </div>
+#</div>
+
+![Transgenic songbird](/images/transgenic_bird.png)
+*Transgenic UBC-GFP zebra finch.*
 
 
 <p align="center">
   <img src="/images/flashtagcell.gif" width="320" alt="Newborn neuron in adult songbird">
+  <em style="font-size:0.9em;">Adult-born neuron in zebra finch brain.</em>
 </p>
-
-*Single adult-born neuron in zebra finch brain.*
+# *Single adult-born neuron in zebra finch brain.*
 
 <p align="center">
   <span style="display:inline-block; text-align:center; margin:6px;">
