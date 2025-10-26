@@ -60,3 +60,41 @@ Link to pre-print: [Shvedov et al. 2025](https://www.biorxiv.org/)
   <img src="/images/tunnel.png" width="520" alt="MIGR tunneling through MSN cluster">
   <br><em>MIGR tunneling through a cluster of medium spiny neurons (MSNs)</em>
 </p>
+
+
+Publications
+======
+
+Songbird connectome reveals tunneling of migratory neurons in adult basal ganglia
+*Naomi R. Shvedov, Simon J. Castonguay, Alexandra Rother, Delta E. Schick, Joergen Kornfeld, Benjamin B. Scott*
+_BioRxiv_ (2025). 
+PDF ↗
+
+[In vivo imaging in transgenic songbirds reveals superdiffusive neuron migration in the adult brain](https://www.sciencedirect.com/science/article/pii/S221112472400086X)  
+*Naomi R. Shvedov, Sina Analoui, Theresia Dafalias, Brooke L. Bedell, Timothy J. Gardner, Benjamin B. Scott*  
+_Cell Reports_ 43, 113759 (2024).  
+[PDF ↗](/files/invivosuperdiffusivemigration.pdf)
+
+[The effects of dietary fatty acids in the physiological outcomes of maternal high-fat diet on offspring energy homeostasis in mice](https://www.cambridge.org/core/journals/journal-of-developmental-origins-of-health-and-disease/article/abs/effects-of-dietary-fatty-acids-in-the-physiological-outcomes-of-maternal-highfat-diet-on-offspring-energy-homeostasis-in-mice/E49E607F0790FF57608E46E8EC5D6D2C)
+*Kyle J. Mamounis, Naomi R. Shvedov, Nicholas Margolies, Ali Yasrebi, Troy A. Roepke*
+_J. Developmental Origins of Health and Disease_ 11, 3 (2019).
+
+In Prep:
+======
+Deep brain three-photon imaging in songbirds 
+*Hadas Frostig, Naomi Shvedov, Ben Scott*
+_In prep_
+
+Spotlight Articles
+======
+
+[Why Reinvent the Wheel? An Idea to Watch Extending Growth Cones to Migrating Neurons](https://onlinelibrary.wiley.com/doi/10.1002/bies.70059)
+*Naomi R. Shvedov, Shawn F. Sorrells*
+_BioEssays_ 47, e70059 (2025).
+
+[An Optical Exposé of Cortical Function](https://www.sciencedirect.com/science/article/abs/pii/S0166223619300748)
+*Naomi R. Shvedov, David J. Margolis*
+_Trends in Neurosciences_42, 8 (2019).
+
+
+
