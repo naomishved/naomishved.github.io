@@ -17,7 +17,7 @@
     *"theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
    */
    "themes",
-   "theme/air_light",
+   "theme/default_light",
 
     "include/mixins",
     "vendor/susy/susy",
