@@ -24,7 +24,7 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /files/Curriculum Vitae (CV) Shvedov (3).pdf
+    url: /files/CurriculumVitae.pdf
     target: _blank
     
   # - title: "CV"
