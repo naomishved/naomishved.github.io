@@ -1,6 +1,11 @@
 {% include base_path %}
 
 <!-- start custom head snippets -->
+<!-- just added next 4 lines to remove sun/moon icon to toggle theme -->
+<style>
+  .theme-toggle { display: none !important; }
+  :root { color-scheme: light; } /* Hint browsers to use light UI */
+</style>
 
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
