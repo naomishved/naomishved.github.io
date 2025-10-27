@@ -68,14 +68,14 @@ Publications
 [Songbird connectome reveals tunneling of migratory neurons in adult striatum](https://doi.org/10.1101/2025.10.24.684388)
 *Naomi R. Shvedov, Simon J. Castonguay, Alexandra Rother, Delta E. Schick, Joergen Kornfeld, Benjamin B. Scott*
 _BioRxiv_ (2025). 
-PDF ↗
+[PDF ↗](/files/EMtunneling2025.pdf)
 
 
 [In vivo imaging in transgenic songbirds reveals superdiffusive neuron migration in the adult brain](https://www.sciencedirect.com/science/article/pii/S221112472400086X)  
 *Naomi R. Shvedov, Sina Analoui, Theresia Dafalias, Brooke L. Bedell, Timothy J. Gardner, Benjamin B. Scott*  
 _Cell Reports_ 43, 113759 (2024). [PDF ↗](/files/invivosuperdiffusivemigration.pdf) 
-Highlighted in: [Migratory neurons in adult songbirds spread their wings (2024) _Cell Reports_](https://www.sciencedirect.com/science/article/pii/S2211124724001761) by Shawn Sorrells 
-and [Window into the songbird brain reveals superdiffusive migration of adult-born neurons (2024) _Trends Neurosci._](https://pmc.ncbi.nlm.nih.gov/articles/PMC11132606/) by Carolyn Pytte
+Highlighted in: [Sorrells, S.F. Migratory neurons in adult songbirds spread their wings (2024) _Cell Reports_](https://www.sciencedirect.com/science/article/pii/S2211124724001761)
+and [Pytte, C. Window into the songbird brain reveals superdiffusive migration of adult-born neurons (2024) _Trends Neurosci._](https://pmc.ncbi.nlm.nih.gov/articles/PMC11132606/)
 
 
 [The effects of dietary fatty acids in the physiological outcomes of maternal high-fat diet on offspring energy homeostasis in mice](https://www.cambridge.org/core/journals/journal-of-developmental-origins-of-health-and-disease/article/abs/effects-of-dietary-fatty-acids-in-the-physiological-outcomes-of-maternal-highfat-diet-on-offspring-energy-homeostasis-in-mice/E49E607F0790FF57608E46E8EC5D6D2C)
