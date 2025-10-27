@@ -53,8 +53,8 @@ Next, I wanted to know what mechanisms underlied this migration: could cells be 
   <br><em>Migratory neurons found in the songbird EM connectome (Kornfeld et&nbsp;al.)</em>
 </p>
 
-To answer these questions, we teamed up with the Kornfeld Lab, who developed the first fully reconstructed vertebrate basal ganglia EM connectome [available online](https://syconn.esc.mpcdf.mpg.de/), taken from a zebra finch's basal ganglia (which receives new neurons throughout life). Within this dataset, we identified 35 migratory neurons based on their morphological and ultrastructural features. These cells did not rely on any particular scaffold. Instead, they made contact with various structures in their environment. They seemed embedded in the synapse-dense neuropil, and sometimes appeared to deform dendritic spines around their elongated soma. Strikingly, migratory neurons also appeared to deform nearby mature neurons. Sometimes this deformation involved several mature neuron somas and was so severe that it looked like the migratory neuron was "tunneling" through the neuron cluster. These findings leveraged the power of EM connectomics and an extensive new dataset from Kornfeld et al. to discover a surprising structural flexibility of adult brain circuitry to migrating neurons.
-Link to pre-print: [Shvedov et al. 2025](https://www.biorxiv.org/)
+To answer these questions, we teamed up with the Kornfeld Lab, who developed the first fully reconstructed vertebrate basal ganglia EM connectome, which is [available online](https://syconn.esc.mpcdf.mpg.de/) and described in their [pre-print](https://www.biorxiv.org/content/10.1101/2025.10.25.684569v1). A large EM volume was taken from a zebra finch's basal ganglia (which receives new neurons throughout life). Within this dataset, we identified 35 migratory neurons based on their morphological and ultrastructural features. These cells did not rely on any particular scaffold. Instead, they made contact with various structures in their environment. They seemed embedded in the synapse-dense neuropil, and sometimes appeared to deform dendritic spines around their elongated soma. Strikingly, migratory neurons also appeared to deform nearby mature neurons. Sometimes this deformation involved several mature neuron somas and was so severe that it looked like the migratory neuron was "tunneling" through the neuron cluster. These findings leveraged the power of EM connectomics and an extensive new dataset from Kornfeld et al. to discover a surprising structural flexibility of adult brain circuitry to migrating neurons.
+Link to pre-prints: [Shvedov et al. 2025](https://www.biorxiv.org/),
 
 <p align="center">
   <img src="/images/tunnel.png" width="520" alt="MIGR tunneling through MSN cluster">
@@ -65,16 +65,16 @@ Link to pre-print: [Shvedov et al. 2025](https://www.biorxiv.org/)
 Publications
 ======
 
-[Songbird connectome reveals tunneling of migratory neurons in adult striatum](https://doi.org/10.1101/2025.10.24.684388)
-*Naomi R. Shvedov, Simon J. Castonguay, Alexandra Rother, Delta E. Schick, Joergen Kornfeld, Benjamin B. Scott*
-_BioRxiv_ (2025). 
+[Songbird connectome reveals tunneling of migratory neurons in adult striatum](https://doi.org/10.1101/2025.10.24.684388)  
+*Naomi R. Shvedov, Simon J. Castonguay, Alexandra Rother, Delta E. Schick, Joergen Kornfeld, Benjamin B. Scott* _BioRxiv_ (2025).  
 [PDF ↗](/files/EMtunneling2025.pdf)
 
 
 [In vivo imaging in transgenic songbirds reveals superdiffusive neuron migration in the adult brain](https://www.sciencedirect.com/science/article/pii/S221112472400086X)  
 *Naomi R. Shvedov, Sina Analoui, Theresia Dafalias, Brooke L. Bedell, Timothy J. Gardner, Benjamin B. Scott*  
-_Cell Reports_ 43, 113759 (2024). [PDF ↗](/files/invivosuperdiffusivemigration.pdf) 
-Highlighted in: [Sorrells, S.F. Migratory neurons in adult songbirds spread their wings (2024) _Cell Reports_](https://www.sciencedirect.com/science/article/pii/S2211124724001761)
+_Cell Reports_ 43, 113759 (2024).  
+[PDF ↗](/files/invivosuperdiffusivemigration.pdf)  
+Highlighted in: [Sorrells, S.F. Migratory neurons in adult songbirds spread their wings (2024) _Cell Reports_](https://www.sciencedirect.com/science/article/pii/S2211124724001761)  
 and [Pytte, C. Window into the songbird brain reveals superdiffusive migration of adult-born neurons (2024) _Trends Neurosci._](https://pmc.ncbi.nlm.nih.gov/articles/PMC11132606/)
 
 
