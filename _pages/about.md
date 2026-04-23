@@ -68,7 +68,7 @@ Publications
 [Songbird connectome reveals tunneling of migratory neurons in adult striatum]([https://doi.org/10.1016/j.cub.2026.03.057])  
 *Naomi R. Shvedov, Simon J. Castonguay, Alexandra Rother, Delta E. Schick, Joergen Kornfeld, Benjamin B. Scott*   
 _Current Biology_ (2026).  
-[PDF ↗](/files/EMtunneling2025.pdf)
+[PDF ↗](/files/Shvedov2026_EM-tunneling_CurrentBio.pdf)
 
 
 [In vivo imaging in transgenic songbirds reveals superdiffusive neuron migration in the adult brain](https://www.sciencedirect.com/science/article/pii/S221112472400086X)  
