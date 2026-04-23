@@ -65,9 +65,9 @@ Link to pre-prints: [Shvedov et al. 2025](https://www.biorxiv.org/),
 Publications
 ======
 
-[Songbird connectome reveals tunneling of migratory neurons in adult striatum](https://doi.org/10.1101/2025.10.24.684388)  
+[Songbird connectome reveals tunneling of migratory neurons in adult striatum]([https://doi.org/10.1016/j.cub.2026.03.057])  
 *Naomi R. Shvedov, Simon J. Castonguay, Alexandra Rother, Delta E. Schick, Joergen Kornfeld, Benjamin B. Scott*   
-_BioRxiv_ (2025).  
+_Current Biology_ (2026).  
 [PDF ↗](/files/EMtunneling2025.pdf)
 
 
