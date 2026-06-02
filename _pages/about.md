@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral associate mentored by Dr. Shawn Sorrells at the University of Pittsburgh, studying late-maturing neurons in the amygdala and how early-life experiences shape adolescent brain development and social behaviors. Prior to joining the Sorrells lab, I recieved my PhD in Neuroscience from Boston University, where I worked with Dr. Ben Scott to investigate the dynamics and mechanisms of neuron migration in the adult songbird brain.
+I am a postdoctoral associate mentored by Dr. Shawn Sorrells at the University of Pittsburgh, studying late-maturing neurons in the amygdala and how early-life experiences shape adolescent brain development and social behaviors. Prior to joining the Sorrells lab, I recieved my PhD in Neuroscience from Boston University, where I worked with Dr. Ben Scott to investigate the dynamics and mechanisms of neuron migration in the adult songbird brain.
 
 My long-term goal is to understand how circuits re-organize and refine across development to orchestrate natural behaviors. I am particularly interested in understanding how immature neurons can integrate into circuits postnatally, illustrating an incredible natural plasticity of the vertebrate brain and informing future efforts to rebuild damaged circuits in adulthood. I specialize in applying advanced optical and genetic tools to study neuron migration and integration into functional cirucitry across adolescent development.
 
@@ -54,7 +54,6 @@ Next, I wanted to know what mechanisms underlied this migration: could cells be 
 </p>
 
 To answer these questions, we teamed up with the Kornfeld Lab, who developed the first fully reconstructed vertebrate basal ganglia EM connectome, which is [available online](https://syconn.esc.mpcdf.mpg.de/) and described in their [pre-print](https://www.biorxiv.org/content/10.1101/2025.10.25.684569v1) and this amazing [website](http://www.songbird-connectomics.org/). A large EM volume was taken from a zebra finch's basal ganglia (which receives new neurons throughout life). Within this dataset, we identified 35 migratory neurons based on their morphological and ultrastructural features. These cells did not rely on any particular scaffold. Instead, they made contact with various structures in their environment. They seemed embedded in the synapse-dense neuropil, and sometimes appeared to deform dendritic spines around their elongated soma. Strikingly, migratory neurons also appeared to deform nearby mature neurons. Sometimes this deformation involved several mature neuron somas and was so severe that it looked like the migratory neuron was "tunneling" through the neuron cluster. These findings leveraged the power of EM connectomics and an extensive new dataset from Kornfeld et al. to discover a surprising structural flexibility of adult brain circuitry to migrating neurons.
-Link to pre-prints: [Shvedov et al. 2025](https://www.biorxiv.org/),
 
 <p align="center">
   <img src="/images/tunnel.png" width="520" alt="MIGR tunneling through MSN cluster">
@@ -65,7 +64,7 @@ Link to pre-prints: [Shvedov et al. 2025](https://www.biorxiv.org/),
 Publications
 ======
 
-[Songbird connectome reveals tunneling of migratory neurons in adult striatum]([https://doi.org/10.1016/j.cub.2026.03.057])  
+[Songbird connectome reveals tunneling of migratory neurons in adult striatum]([(https://www.sciencedirect.com/science/article/pii/S0960982226003775?ref=pdf_download&fr=RR-2&rr=a0596302feb69db4)])  
 *Naomi R. Shvedov, Simon J. Castonguay, Alexandra Rother, Delta E. Schick, Joergen Kornfeld, Benjamin B. Scott*   
 _Current Biology_ (2026).  
 [PDF ↗](/files/Shvedov2026_EM-tunneling_CurrentBio.pdf)
