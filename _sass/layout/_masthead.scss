@@ -65,3 +65,10 @@
     font-weight: 700;
   }
 }
+/* Highlight the tab for the page you are on */
+.masthead__menu-item.is-current a {
+  font-weight: bold;
+  text-decoration: underline;
+  text-underline-offset: 0.35em;
+  text-decoration-thickness: 2px;
+}

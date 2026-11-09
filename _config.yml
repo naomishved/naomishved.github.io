@@ -41,7 +41,7 @@ author:
   impactstory      : # URL
   orcid: "https://orcid.org/0000-0001-5550-5231"
   semantic         : 
-  pubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Shvedov+N"
+  # pubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Shvedov+NR%5BAuthor%5D"  # hidden for now; Google Scholar + ORCID cover it
   researchgate     : "https://www.researchgate.net/profile/Naomi-Shvedov"
   scopus           : # URL
 
@@ -64,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin: "https://www.linkedin.com/in/naomi-shved-936980160"
+  linkedin: "naomi-shvedov-936980160"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -123,7 +123,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # change to false to show the RSS feed in the footer (once there is a blog)
   path                   : # blank (default) uses feed.xml
 
 

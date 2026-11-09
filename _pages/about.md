@@ -1,36 +1,41 @@
 ---
 permalink: /
-title: "Biography"
+title: "Naomi Shvedov, PhD"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a postdoctoral associate mentored by Dr. Shawn Sorrells at the University of Pittsburgh, studying late-maturing neurons in the amygdala and how early-life experiences shape adolescent brain development and social behaviors. Prior to joining the Sorrells lab, I recieved my PhD in Neuroscience from Boston University, where I worked with Dr. Ben Scott to investigate the dynamics and mechanisms of neuron migration in the adult songbird brain.
+I am a neuroscientist and postdoctoral associate in Dr. Shawn Sorrells’ lab at the University of Pittsburgh. I study plasticity in circuits after birth: how immature neurons travel, mature, and join circuits that are already working.
 
-My long-term goal is to understand how circuits re-organize and refine across development to orchestrate natural behaviors. I am particularly interested in understanding how immature neurons can integrate into circuits postnatally, illustrating an incredible natural plasticity of the vertebrate brain and informing future efforts to rebuild damaged circuits in adulthood. I specialize in applying advanced optical and genetic tools to study neuron migration and integration into functional cirucitry across adolescent development.
+One question runs through my work: **how can circuits that undergo massive structural change, such as taking in new neurons, reorganize to coordinate complex natural behaviors?**
 
+During my PhD with Dr. Ben Scott at Boston University, I approached it in adult songbirds, which add new neurons to their brains throughout life. Currently, I study the paralaminar nucleus of the amygdala, a region that holds a reserve of immature neurons that mature across adolescence in mammals, including humans.
 
-My Research
+My work combines in vivo and in vitro imaging, quantitative anatomy, connectomics, and modeling, as well as the development of custom experimental tools and analyses.
+
+Approaches
 ======
 
-**Current**
+* **In vivo deep-brain and chronic imaging.** Two- and three-photon microscopy in living animals, through cranial windows, GRIN lenses, and microprisms, in both songbirds and mice. I brought in vivo imaging to transgenic songbirds and helped establish three-photon imaging in songbirds.
+* **In vitro imaging.** Ongoing development of platforms for calcium imaging in organotypic slice cultures from both mice and human neurosurgical resections, to study developmental network dynamics.
+* **Software tools.** AI-assisted development of highly individualized software tools, ranging from data analysis pipelines to anatomical reconstruction from histology to personal management platforms. See [Tools](/tools/).
+* **From cells to circuits.** Tracking hundreds of migrating neurons over hours, modeling their population dynamics, and finding them in a full EM connectome to see how they physically interact with the circuit around them. In slice cultures from mice and humans, I am extending this to how maturing neurons take part in developing network activity.
 
-My current research is in early stages; I am excited to share more updates soon. 
+PhD work: how new neurons move through an adult brain
+======
 
-**Previous** 
+My PhD research in the Scott Lab focused on neuron migration in adult zebra finches. Songbirds generate new neurons throughout their lives. These new neurons migrate widely through the brain before integrating into song-relevant circuitry. How they could disperse through the intact adult brain, with its high density of other cells and synapses, was not clear.
 
-My PhD research in the Scott Lab (BU) focused on neuron migration in adult zebra finches. Songbirds, such as zebra finches, generate new neurons throughout their lives. These new neurons migrate widely throughout the brain before integrating into song-relevant circuitry. How these cells could disperse throughout the intact songbird brain, with its high density of other cells and synapses, was not clear. I performed two-photon microscopy timelapses in living transgenic zebra finches and recorded neuronal migratory dynamics. I observed that these neurons behaved in a disorderd manner; they dispersed in all different directions and made frequent turns.  I then quantitatively described and modeled the migratory neuron population dynamics as a diffusive-like process (they behaved more like wandering foragers than directed projectiles).  
-Here's that paper: [Shvedov et al. 2024](https://doi.org/10.1016/j.celrep.2024.113759)
-
+I recorded migrating neurons with two-photon timelapse imaging in living transgenic zebra finches. They behaved in a disordered way: they dispersed in every direction and turned frequently. I described and modeled their population dynamics as a diffusion-like process. They behaved more like wandering foragers than directed projectiles. Here's that paper: [Shvedov et al. 2024, *Cell Reports*](https://doi.org/10.1016/j.celrep.2024.113759).
 
 <p align="center">
-  <img src="/images/transgenic_bird.png" width="220" alt="Transgenic songbird.">
+  <img src="/images/transgenic_bird.png" width="220" alt="Transgenic songbird."><br>
   <em style="font-size:0.9em;">Transgenic UBC-GFP zebra finch.</em>
 </p>
 
 <p align="center">
-  <img src="/images/flashtagcell.gif" width="320" alt="Newborn neuron in adult songbird">
+  <img src="/images/flashtagcell.gif" width="320" alt="Newborn neuron in adult songbird"><br>
   <em style="font-size:0.9em;">Adult-born neuron in zebra finch brain.</em>
 </p>
 
@@ -45,58 +50,25 @@ Here's that paper: [Shvedov et al. 2024](https://doi.org/10.1016/j.celrep.2024.1
   </span>
 </p>
 
-
-Next, I wanted to know what mechanisms underlied this migration: could cells be using a winding scaffold, such as vasculature, to migrate through the brain in this diffusive-like way? Also, do migrating neurons avoid other neurons and synapses? If not, do they disrupt the functioning circuitry of the adult brain? 
+Next, I wanted to know what mechanisms underlie this migration. Could cells be using a winding scaffold, such as blood vessels, to move through the brain this way? Do migrating neurons avoid other neurons and synapses? If not, do they disrupt the working circuitry of the adult brain?
 
 <p align="center">
   <img src="/images/EM-cells.png" width="520" alt="Migratory neurons in songbird EM connectome">
   <br><em>Migratory neurons found in the songbird EM connectome (Kornfeld et&nbsp;al.)</em>
 </p>
 
-To answer these questions, we teamed up with the Kornfeld Lab, who developed the first fully reconstructed vertebrate basal ganglia EM connectome, which is [available online](https://syconn.esc.mpcdf.mpg.de/) and described in their [pre-print](https://www.biorxiv.org/content/10.1101/2025.10.25.684569v1) and this amazing [website](http://www.songbird-connectomics.org/). A large EM volume was taken from a zebra finch's basal ganglia (which receives new neurons throughout life). Within this dataset, we identified 35 migratory neurons based on their morphological and ultrastructural features. These cells did not rely on any particular scaffold. Instead, they made contact with various structures in their environment. They seemed embedded in the synapse-dense neuropil, and sometimes appeared to deform dendritic spines around their elongated soma. Strikingly, migratory neurons also appeared to deform nearby mature neurons. Sometimes this deformation involved several mature neuron somas and was so severe that it looked like the migratory neuron was "tunneling" through the neuron cluster. These findings leveraged the power of EM connectomics and an extensive new dataset from Kornfeld et al. to discover a surprising structural flexibility of adult brain circuitry to migrating neurons.
+To answer these questions, we teamed up with the Kornfeld Lab, who built the first fully reconstructed vertebrate basal ganglia EM connectome. It is [available online](https://syconn.esc.mpcdf.mpg.de/) and described in their [preprint](https://www.biorxiv.org/content/10.1101/2025.10.25.684569v1) and on this [website](http://www.songbird-connectomics.org/). The volume comes from a zebra finch basal ganglia, which receives new neurons throughout life. Within it, we identified 35 migratory neurons from their shape and ultrastructure. They did not rely on any particular scaffold. Instead, they contacted many different structures and sat embedded in the synapse-dense neuropil, sometimes deforming the dendritic spines around their elongated cell bodies. Strikingly, they also deformed nearby mature neurons. Sometimes this involved several mature cell bodies and was so severe that the migratory neuron appeared to be "tunneling" through the cluster. These findings reveal a surprising structural flexibility of adult brain circuitry toward migrating neurons. Here's that paper, [Shvedov et al. 2026, *Current Biology*](https://doi.org/10.1016/j.cub.2026.03.057), and a short [video abstract](https://www.youtube.com/watch?v=pVGGSqPoz4I).
 
 <p align="center">
-  <img src="/images/tunnel.png" width="520" alt="MIGR tunneling through MSN cluster">
-  <br><em>MIGR tunneling through a cluster of medium spiny neurons (MSNs)</em>
+  <img src="/images/tunnel.png" width="520" alt="Migratory neuron tunneling through a cluster of medium spiny neurons">
+  <br><em>A migratory neuron tunneling through a cluster of medium spiny neurons (MSNs)</em>
 </p>
 
+<div style="max-width:560px; margin:1em auto;">
+  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+    <iframe src="https://www.youtube-nocookie.com/embed/pVGGSqPoz4I" title="How songbirds fill their brains with new neurons (Current Biology video abstract)" style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+  </div>
+  <p align="center"><em style="font-size:0.9em;">Video abstract for Shvedov et al. 2026, <i>Current Biology</i></em></p>
+</div>
 
-Publications
-======
-
-[Songbird connectome reveals tunneling of migratory neurons in adult striatum]([(https://www.sciencedirect.com/science/article/pii/S0960982226003775?ref=pdf_download&fr=RR-2&rr=a0596302feb69db4)])  
-*Naomi R. Shvedov, Simon J. Castonguay, Alexandra Rother, Delta E. Schick, Joergen Kornfeld, Benjamin B. Scott*   
-_Current Biology_ (2026).  
-[PDF ↗](/files/Shvedov2026_EM-tunneling_CurrentBio.pdf)
-
-
-[In vivo imaging in transgenic songbirds reveals superdiffusive neuron migration in the adult brain](https://www.sciencedirect.com/science/article/pii/S221112472400086X)  
-*Naomi R. Shvedov, Sina Analoui, Theresia Dafalias, Brooke L. Bedell, Timothy J. Gardner, Benjamin B. Scott*  
-_Cell Reports_ 43, 113759 (2024).  
-[PDF ↗](/files/invivosuperdiffusivemigration.pdf)  
-Highlighted in: [Sorrells, S.F., Migratory neurons in adult songbirds spread their wings (2024)](https://www.sciencedirect.com/science/article/pii/S2211124724001761)  
-and [Pytte, C., Window into the songbird brain reveals superdiffusive migration of adult-born neurons (2024)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11132606/)
-
-
-[The effects of dietary fatty acids in the physiological outcomes of maternal high-fat diet on offspring energy homeostasis in mice](https://www.cambridge.org/core/journals/journal-of-developmental-origins-of-health-and-disease/article/abs/effects-of-dietary-fatty-acids-in-the-physiological-outcomes-of-maternal-highfat-diet-on-offspring-energy-homeostasis-in-mice/E49E607F0790FF57608E46E8EC5D6D2C)
-*Kyle J. Mamounis, Naomi R. Shvedov, Nicholas Margolies, Ali Yasrebi, Troy A. Roepke*  
-_J. Developmental Origins of Health and Disease_ 11, 3 (2019).
-
-In Prep:
-======
-Deep brain three-photon imaging in songbirds 
-*Hadas Frostig, Naomi Shvedov, Ben Scott* _(In prep)_
-
-Spotlight Articles
-======
-
-[Why Reinvent the Wheel? An Idea to Watch Extending Growth Cones to Migrating Neurons](https://onlinelibrary.wiley.com/doi/10.1002/bies.70059)
-*Naomi R. Shvedov, Shawn F. Sorrells*
-_BioEssays_ 47, e70059 (2025).
-
-[An Optical Exposé of Cortical Function](https://www.sciencedirect.com/science/article/abs/pii/S0166223619300748)
-*Naomi R. Shvedov, David J. Margolis*
-_Trends in Neurosciences_ 42, 8 (2019).
-
-
-
+See [publications](/publications/) or [CV](/cv/).
