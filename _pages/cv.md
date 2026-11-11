@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download the PDF version](/files/Shvedov_Naomi_CV_2026.pdf)
+[PDF](/files/Shvedov_Naomi_CV_2026.pdf)
 
 Appointments
 ======
@@ -82,8 +82,8 @@ Service and outreach
 
 Technical skills
 ======
-* **In vivo imaging:** chronic two- and three-photon calcium imaging through cranial windows, GRIN lenses, and microprisms in mice and songbirds; head-fixed behavior
-* **Surgery:** stereotaxic and neonatal viral injection; chronic deep-brain GRIN lens implantation; chronic chemogenetic manipulation
-* **Tissue:** organotypic slice culture (mouse and human); immunohistochemistry; confocal and epifluorescence imaging; volumetric EM analysis
-* **Computation:** Python and MATLAB analysis pipelines for calcium imaging, cell tracking, and 3D histology reconstruction; FIJI/ImageJ; Git
-* **Design and fabrication:** 3D modeling and printing of custom behavioral, head-fixation, and implant hardware
+* **In vivo:** chronic two- and three-photon calcium imaging through cranial windows, GRIN lenses, and microprisms in live mice and songbirds; head-fixed behavior; stereotaxic and neonatal viral injection; chronic GRIN lens implantation in deep brain (amygdala); chronic chemogenetic manipulation
+* **Tissue and histology:** ex vivo organotypic slice culture (mouse and human); immunohistochemistry; AAV transduction; confocal and epifluorescence imaging
+* **Molecular:** RNA extraction, PCR, qPCR
+* **Analysis:** MATLAB; Python; FIJI/ImageJ; custom analytical pipelines for calcium imaging, cell tracking, and 3D histology reconstruction
+* **Fabrication:** 3D modeling and printing of custom behavioral, head-fixation, and implant hardware
